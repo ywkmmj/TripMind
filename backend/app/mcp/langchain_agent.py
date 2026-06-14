@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 import logging
-from typing import Any, Callable
+from typing import Any, Callable, TypedDict
 
 from app.config import (
     LLM_API_KEY,
